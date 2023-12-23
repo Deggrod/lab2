@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\sarat\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(160,9): warning C4101: i: неиспользованная локальная переменная
+C:\Users\sarat\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(331,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\sarat\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
